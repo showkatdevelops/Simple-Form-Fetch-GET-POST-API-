@@ -1,0 +1,34 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "name": "anil sidhu",
+      "email": "anil@gmail.com",
+      "mobile": 9999
+    },
+    {
+      "id": 2,
+      "name": "json-server",
+      "email": "server@gmail.com",
+      "mobile": 9999
+    },
+    {
+      "id": 3,
+      "name": "json-server",
+      "email": "typicode@gmail.com",
+      "mobile": 9999
+    },
+    {
+      "id": 4,
+      "name": "json-server",
+      "email": "typicode1@gmail.com",
+      "mobile": 9999
+    },
+    {
+      "name": "batman",
+      "email": "arviixyed@gmail.com",
+      "mobile": "9858",
+      "id": 5
+    }
+  ]
+}
